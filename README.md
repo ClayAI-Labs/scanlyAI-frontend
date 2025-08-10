@@ -65,7 +65,7 @@ src/
   services/        # API service modules
   types/           # TypeScript types
   App.tsx          # Main app component
-  main.tsx         # Entry point
+  main.tsx         # Entry point 
 public/
   images/          # Static assets
 ```
